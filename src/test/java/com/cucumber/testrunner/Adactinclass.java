@@ -1,5 +1,6 @@
 package com.cucumber.testrunner;
 
-public class adactinclass {
+public class Adactinclass {
+	
 
 }
